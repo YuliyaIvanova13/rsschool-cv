@@ -4,15 +4,16 @@
 
 *****
 
-![Yuliya Ivanova] (/Users/User/Desktop/RSS/Yuliya Ivanova.jpg)
+![Julia](yuliya.png)
 
 ## **Contact information:**
 ### **Country:** Belarus, Vitebsk
 ### **Phone number:** +375 (29) 814-10-18
 ### **E-mail:** yuliya-yulia-13@mail.ru
 ### **Telegram:**@Yuliya1397
-[Linkedin] (https://www.linkedin.com/in/yuliya-ivanova-912814196/)
-[GitHub] (https://github.com/YuliyaIvanova13)
+[Linkedin](https://www.linkedin.com/in/yuliya-ivanova-912814196/)
+
+[GitHub](https://github.com/YuliyaIvanova13)
 
 *****
 
